@@ -1,3 +1,7 @@
+//Class Name: HealthKiosk
+//Date Created: 29/09/25
+//Author Name: Asizem Curtis
+//Purpose: Creates service intake service kiosk
 import java.util.*;
 
 public class HealthKiosk {
